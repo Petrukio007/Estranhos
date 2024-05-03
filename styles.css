@@ -1,0 +1,88 @@
+
+.começo {
+    padding-top: 50px;
+    margin: 10px auto;
+    background-attachment: fixed;
+    background-position: center;   
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(uno.jpg);
+    height: 100%;   
+    
+
+}
+
+.segundocomeço {
+    text-align: center;
+    margin: auto;
+    font-family: tahoma;
+    padding-top: 6px;
+    font-size: 15px;
+    padding-bottom: 25px;
+    background-color: red;
+    color: white;
+    width: 450px;
+    height: 60px;
+    
+}
+
+.segundaimagem {
+    
+    background-position: center;
+    background-repeat: no-repeat;background-image: url(trino.jpg);
+    height: 800px;
+    padding-top: 250px;
+    background-attachment: fixed;
+    text-align: center;
+    background-size: cover;
+}
+.resumão {
+    background-color: white;
+    margin: 0 auto;
+    height: 450px;
+    padding-top: 50px;
+    width: 900px;
+    padding-left: 100px;
+    padding-right: 100px;
+    text-align: justify;
+    font-family: tahoma;
+}
+.começonumeroum {
+    background-color: black;
+    color: white;
+    width: 450px;
+    height: 90px;
+    text-align: center;
+    margin: auto;
+    font-family: tahoma;
+    padding-top: 50px;
+}
+.Exposição {
+    
+   
+    height: 80px;
+    width: 320px;
+    text-align: center;
+    padding-top: 50px;
+    border-radius: 50px;
+    background-color: red;
+    color: white;
+}
+
+
+body, html {
+
+    margin: 0;
+    overflow-x: hidden;
+    width: 100%;
+    height: 100%;
+}.Peaples {
+    background-color: white;
+    width: 50%; 
+    height: 777px;
+    margin-right: 20px ;
+    background-position-x: 200px;
+    padding-top: 70px;
+    padding-left: 300px;
+    font-family: 'Courier New', Courier, monospace;
+}
